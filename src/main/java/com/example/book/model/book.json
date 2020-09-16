@@ -1,0 +1,22 @@
+{
+  "buku": [
+    {
+      "idBuku": "1",
+      "judulBuku": "Buku A",
+      "penerbit": "Erlangga",
+      "tahunTerbit": "2015"
+    },
+    {
+      "idBuku": "2",
+      "judulBuku": "Buku B",
+      "penerbit": "Gramedia",
+      "tahunTerbit": "2016"
+    },
+    {
+      "idBuku": "3",
+      "judulBuku": "Buku C",
+      "penerbit": "Erlangga",
+      "tahunTerbit": "2017"
+    }
+  ]
+}
